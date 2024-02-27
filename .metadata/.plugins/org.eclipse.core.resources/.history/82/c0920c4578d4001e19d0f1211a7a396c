@@ -1,0 +1,10 @@
+package t01;
+
+public class Test4 {
+	public static void main(String[] args) { //메인메소드, 실행 클래스, []배열
+		System.out.println("hi-01");
+		System.out.println("hi-02");
+		System.out.println("hi-03");
+		System.out.println("hi-04");
+	}
+}

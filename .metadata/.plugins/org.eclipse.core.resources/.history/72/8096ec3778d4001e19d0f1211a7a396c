@@ -1,0 +1,7 @@
+package t01;
+
+public class Test4 {
+	public static void main(String[] args) { //메인메소드, 실행 클래스
+		System.out.println("hi");
+	}
+}
